@@ -1,2 +1,3 @@
 *://ja.hinative.com/*
 *://jisho.org/*
+*://www.reddit.com/*?tl=ja
