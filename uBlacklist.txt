@@ -1,3 +1,6 @@
 *://ja.hinative.com/*
 *://jisho.org/*
 *://www.reddit.com/*?tl=ja
+*://www.japandict.com/*
+*://www.romajidesu.com/*
+*://www.nihongomaster.com/*
