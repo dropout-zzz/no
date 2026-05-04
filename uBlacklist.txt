@@ -4,3 +4,5 @@
 *://www.japandict.com/*
 *://www.romajidesu.com/*
 *://www.nihongomaster.com/*
+*://nihongokyoshi-net.com/*
+*://jlptsensei.com/*
