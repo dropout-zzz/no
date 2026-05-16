@@ -8,3 +8,4 @@
 *://jlptsensei.com/*
 *://hinative.com/*
 *://baike.baidu.com/ja/*
+*://zh.moegirl.org.cn/*
