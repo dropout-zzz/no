@@ -10,3 +10,4 @@
 *://baike.baidu.com/ja/*
 *://zh.moegirl.org.cn/*
 *://*.mainichi-nonbiri.com/*
+*://*.bunpro.jp/*
