@@ -11,3 +11,7 @@
 *://zh.moegirl.org.cn/*
 *://*.mainichi-nonbiri.com/*
 *://*.bunpro.jp/*
+*://*.sigure.tw/*
+*://*.jpf.go.jp/*
+*://*.neoapo.com/*
+*://*.gamer.com.tw/*
