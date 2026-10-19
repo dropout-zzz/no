@@ -13,5 +13,4 @@
 *://*.bunpro.jp/*
 *://*.sigure.tw/*
 *://*.jpf.go.jp/*
-*://*.neoapo.com/*
 *://*.gamer.com.tw/*
